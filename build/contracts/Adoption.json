@@ -1,0 +1,112 @@
+{
+  "contractName": "Adoption",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/Users/dell/pet-shop-tutorial/contracts/Adoption.sol\":\"Adoption\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Users/dell/pet-shop-tutorial/contracts/Adoption.sol\":{\"keccak256\":\"0x09ea972de8105405adfd8d58a473d1a2e283f484474116f59e13134dbc49e41c\",\"urls\":[\"bzz-raw://373d46603458669727b50221337737fda170d585fd319ed762d895c742a44bf4\",\"dweb:/ipfs/QmVj7XHFePLC8uKVcXj7S4KqtB6sAhYHqvPpLMNuB2oRNe\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a723158208ee35db393064de7e5ebecd7947482db5a095026ba4bdc1be5b7c86e1369aa6864736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a723158208ee35db393064de7e5ebecd7947482db5a095026ba4bdc1be5b7c86e1369aa6864736f6c63430005100032",
+  "sourceMap": "27:24:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:24:0;;;;;;;",
+  "deployedSourceMap": "27:24:0:-;;;;;",
+  "source": "pragma solidity ^0.5.0;\r\n\r\ncontract Adoption {\r\n\r\n}",
+  "sourcePath": "C:/Users/dell/pet-shop-tutorial/contracts/Adoption.sol",
+  "ast": {
+    "absolutePath": "/C/Users/dell/pet-shop-tutorial/contracts/Adoption.sol",
+    "exportedSymbols": {
+      "Adoption": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Adoption",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "27:24:0"
+      }
+    ],
+    "src": "0:51:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/dell/pet-shop-tutorial/contracts/Adoption.sol",
+    "exportedSymbols": {
+      "Adoption": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Adoption",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "27:24:0"
+      }
+    ],
+    "src": "0:51:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x8A2e243c36ceE66712ef8195b4bf4D1714cEC9B6",
+      "transactionHash": "0x623a0f7c2651c78f23bcc8a7f5e7c7c103d0ffe03b183caa53ee62f9878ef379"
+    }
+  },
+  "schemaVersion": "3.2.3",
+  "updatedAt": "2020-08-27T16:23:07.595Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
